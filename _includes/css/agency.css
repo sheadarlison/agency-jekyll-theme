@@ -33,6 +33,7 @@ p{
 .display-icon{
 	float: right;
 	display: inline;
+	position: relative;
 	max-width: 40vw;
 
 }
