@@ -24,8 +24,14 @@ p{
 }
 
 .create-text{
-	max-width: 40%;
+	max-width: 40vw;
 	font-family: helvetica;
 	color: #ffffff;
+
+}
+
+.display-icon{
+	float: right;
+	display: inline;
 
 }
