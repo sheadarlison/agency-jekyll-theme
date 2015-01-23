@@ -171,8 +171,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default {
-    border-color: transparent;
-    background-color: #fff;
+    background-color: #ffffff;
 }
 
 .navbar-default .navbar-brand {
@@ -265,6 +264,7 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
+    height: 100vh;
     background-attachment: scroll;
     background-image: url(../img/header-bg.jpg);
     background-position: center center;
