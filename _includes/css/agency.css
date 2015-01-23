@@ -3,4 +3,9 @@
     height: 100vh;
     text-align: center;
     color: #ffffff;
+    font: helvetica;
+
+}
+.intro-heading{
+	padding-top: 45%;
 }
