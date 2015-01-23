@@ -14,7 +14,7 @@ p{
 
 }
 .intro-heading{
-	padding-top: 45%;
+	padding-top: 30%;
 	font-size:30px;
 }
 
@@ -33,5 +33,15 @@ p{
 .display-icon{
 	float: right;
 	display: inline;
+	max-width: 40vw;
 
+}
+.who-uses-rise{
+	height: 100vh;
+	background-color: #ffffff
+}
+.who-uses-rise-heading{
+	text-align: center;
+	color: #000000;
+    font-family: helvetica;
 }
