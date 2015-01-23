@@ -1,9 +1,16 @@
+h2{
+	font-size: 64px;
+}
+p{
+	font-size: 30px;
+}
+
 .header-background{
     background-image: url('img/header-bg.jpg');
     height: 100vh;
     text-align: center;
     color: #ffffff;
-    font: helvetica;
+    font-family: helvetica;
 
 }
 .intro-heading{
@@ -18,5 +25,7 @@
 
 .create-text{
 	max-width: 30vw;
-	
+	font-family: helvetica;
+	color: #ffffff;
+
 }
