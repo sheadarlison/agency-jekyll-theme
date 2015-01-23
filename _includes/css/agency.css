@@ -1,5 +1,5 @@
 .header-background{
-    background-image: src('img/header-bg.jpg');
+    background-image: url('img/header-bg.jpg');
     height: 100vh;
     text-align: center;
     color: #ffffff;
