@@ -1,5 +1,5 @@
 ---
-title: Round Icons
+title: Banks and Finance 
 subtitle: Graphic Design
 layout: default
 modal-id: 6
