@@ -17,7 +17,7 @@ p{
 }
 .intro-heading{
 	padding-top: 30%;
-	font-size:30px;
+	font-size:70px;
 }
 
 .services{
@@ -27,15 +27,16 @@ p{
 
 .create-text{
 	max-width: 40vw;
+	float: left;
 	font-family: helvetica;
 	color: #ffffff;
+	display: inline-block;
 
 }
 
 .display-icon{
 	float: right;
-	display: inline;
-	position: relative;
+	display: inline-block;
 	max-width: 40vw;
 
 }
