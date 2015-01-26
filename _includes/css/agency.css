@@ -29,6 +29,8 @@ p{
 }
 
 .create-text{
+	padding-top: 20%;
+	margin-left: 20%;
 	max-width: 40vw;
 	float: left;
 	font-family: helvetica;
@@ -38,6 +40,7 @@ p{
 }
 
 .display-icon{
+	padding-top: 20%;
 	float: right;
 	display: inline-block;
 	max-width: 40vw;
