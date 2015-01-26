@@ -11,6 +11,8 @@ p{
     text-align: center;
     color: #ffffff;
     font-family: helvetica;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 .intro-heading{
